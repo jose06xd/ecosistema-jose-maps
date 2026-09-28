@@ -1,0 +1,29 @@
+{
+  "catalogVersion": 1,
+  "updatedAt": "2026-09-28",
+  "maps": [
+    {
+      "id": "bocas_del_toro",
+      "displayName": "Bocas del Toro",
+      "version": "2026.09.28",
+      "updatedAt": "2026-09-28",
+      "coverage": "Provincia de Bocas del Toro",
+      "type": "pmtiles_vector",
+      "bounds": [-82.895, 8.805, -81.331, 9.732],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "pmtiles": {
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.09.28/bocas_del_toro.pmtiles",
+        "size": 15933776,
+        "sha256": "90ea52c0e5c3baa3a3ed033112a78821caa173737f95ba3c58d3072334ebd5ed"
+      },
+      "searchIndex": {
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.09.28/bocas_del_toro.search.sqlite",
+        "size": 827392,
+        "sha256": "bf2befcca6196a003a47a3fd5815cd8edee4332c8e2d626e5c073959133db78c"
+      },
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik"
+    }
+  ]
+}
