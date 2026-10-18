@@ -149,6 +149,130 @@
         "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/veraguas.search.sqlite"
       },
       "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "cocle",
+      "displayName": "Coclé",
+      "coverage": "Provincia de Coclé",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -80.847,
+        8.079,
+        -80.033,
+        9.068
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5748368",
+      "searchPlaces": 2977,
+      "pmtiles": {
+        "size": 16331840,
+        "sha256": "03f96a03f4a05e5a0e536958ae0669aeeffb6ba992380cda7e0b1be791bdd94f",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/cocle.pmtiles"
+      },
+      "searchIndex": {
+        "size": 1134592,
+        "sha256": "5e11b7b62c0f94eb03577ccc1c291a0a6ff8d5dd631175eff4daad512d02e41e",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/cocle.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "colon",
+      "displayName": "Colón",
+      "coverage": "Provincia de Colón",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -80.976,
+        8.614,
+        -79.071,
+        9.857
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740655",
+      "searchPlaces": 2908,
+      "pmtiles": {
+        "size": 38216108,
+        "sha256": "956eeb518e98218647d031d0d3df6942c6f66779ece8d8c9054e23d25294f25e",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/colon.pmtiles"
+      },
+      "searchIndex": {
+        "size": 1097728,
+        "sha256": "0c26b9a7fcf049600a74688ff0e4338a41e9c58b2d7240124b46651e589302e6",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/colon.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "darien",
+      "displayName": "Darién",
+      "coverage": "Provincia de Darién",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -79.235,
+        7.0,
+        -77.148,
+        9.115
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740656",
+      "searchPlaces": 857,
+      "boundarySource": {
+        "sha256": "49cefae97e7b42100a616ea696193ad8e8484ff1d24c33d580b4479d317f9db3",
+        "url": "https://api.openstreetmap.org/api/0.6/relation/5740656/full"
+      },
+      "pmtiles": {
+        "size": 27999592,
+        "sha256": "172f16686c50fbadcf7498d5a478125df1a6c1986cf1ecb19013a3367ce6cee6",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/darien.pmtiles"
+      },
+      "searchIndex": {
+        "size": 360448,
+        "sha256": "36507e09dd0f239ba2184ccf6963de58ad7541ab664bfef10ad405575b8de327",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/darien.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "los_santos",
+      "displayName": "Los Santos",
+      "coverage": "Provincia de Los Santos",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -80.746,
+        6.993,
+        -79.214,
+        8.418
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740662",
+      "searchPlaces": 1187,
+      "pmtiles": {
+        "size": 15520085,
+        "sha256": "88aed87491194e5db348464f728f55f8d9ff64b5141baa9e4bf9b83b243562d2",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/los_santos.pmtiles"
+      },
+      "searchIndex": {
+        "size": 495616,
+        "sha256": "7940b17d713cbdcd5d7ff98adf403d47af5fad12477bdcfc84d3cf58681dcab4",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/los_santos.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
     }
   ]
 }
