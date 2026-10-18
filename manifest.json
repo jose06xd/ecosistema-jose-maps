@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-17",
   "maps": [
     {
       "id": "bocas_del_toro",
@@ -9,7 +9,12 @@
       "updatedAt": "2026-09-28",
       "coverage": "Provincia de Bocas del Toro",
       "type": "pmtiles_vector",
-      "bounds": [-82.895, 8.805, -81.331, 9.732],
+      "bounds": [
+        -82.895,
+        8.805,
+        -81.331,
+        9.732
+      ],
       "minZoom": 8,
       "maxZoom": 16,
       "pmtiles": {
@@ -24,6 +29,126 @@
       },
       "indexVersion": "FTS5 v2",
       "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik"
+    },
+    {
+      "id": "chiriqui",
+      "displayName": "Chiriquí",
+      "coverage": "Provincia de Chiriquí",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -83.062,
+        7.177,
+        -81.501,
+        8.933
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740681",
+      "searchPlaces": 15767,
+      "pmtiles": {
+        "size": 37809389,
+        "sha256": "2ab20d24102703b483c9e02d619ec6c514ae72a36b5c5b76e7e5f0e01a3aeaed",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/chiriqui.pmtiles"
+      },
+      "searchIndex": {
+        "size": 5836800,
+        "sha256": "2fe4c495c6c1d37d363952ba5688710839fcd35f4ac6bc56bf1f8e25e6ada1c9",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/chiriqui.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "herrera",
+      "displayName": "Herrera",
+      "coverage": "Provincia de Herrera",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -80.974,
+        7.53,
+        -80.266,
+        8.179
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740659",
+      "searchPlaces": 1225,
+      "pmtiles": {
+        "size": 11947939,
+        "sha256": "222302d9b9145fe513d60fd1269402bc963b2efed95da44a8c7883824caae4fc",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/herrera.pmtiles"
+      },
+      "searchIndex": {
+        "size": 507904,
+        "sha256": "0343049597bfd16f7330eb4c136b4c45d3101ab2996ecbfa57259845cdb2f8a3",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/herrera.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "panama",
+      "displayName": "Panamá",
+      "coverage": "Provincia de Panamá",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -79.93,
+        7.0,
+        -78.05,
+        9.512
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740665",
+      "searchPlaces": 24998,
+      "pmtiles": {
+        "size": 45965244,
+        "sha256": "c1625f91526655de28f59e5cf6d9dfd69ea311e5f8f1bc5606000e3527cd1533",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/panama.pmtiles"
+      },
+      "searchIndex": {
+        "size": 9072640,
+        "sha256": "162b83b391a32d104d3eb9932285045a0569ebf2e25b34f0ce9f7be8b4ba439d",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/panama.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "veraguas",
+      "displayName": "Veraguas",
+      "coverage": "Provincia de Veraguas",
+      "type": "pmtiles_vector",
+      "version": "2026.10.17",
+      "bounds": [
+        -82.177,
+        6.992,
+        -80.59,
+        9.491
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740666",
+      "searchPlaces": 7114,
+      "pmtiles": {
+        "size": 42273464,
+        "sha256": "ea41e3bd65575cd8be5e567a6d69ec73847c70f4e97c5524442acd092d904a26",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/veraguas.pmtiles"
+      },
+      "searchIndex": {
+        "size": 2494464,
+        "sha256": "f8fd15e20875620f3f9e6bbb749b1e6c5383cc0bb166b6ae66d4d337a9db60cb",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17/veraguas.search.sqlite"
+      },
+      "updatedAt": "2026-10-17"
     }
   ]
 }
