@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updatedAt": "2026-10-17",
+  "updatedAt": "2026-10-18",
   "maps": [
     {
       "id": "bocas_del_toro",
@@ -273,6 +273,36 @@
         "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.17-2/los_santos.search.sqlite"
       },
       "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "panama_oeste",
+      "displayName": "Panamá Oeste",
+      "coverage": "Provincia de Panamá Oeste",
+      "type": "pmtiles_vector",
+      "version": "2026.10.18",
+      "bounds": [
+        -80.186,
+        8.264,
+        -79.52,
+        9.1969999
+      ],
+      "minZoom": 8,
+      "maxZoom": 16,
+      "indexVersion": "FTS5 v2",
+      "attribution": "© OpenMapTiles · © OpenStreetMap contributors · Geofabrik",
+      "sourceOsmRelation": "5740664",
+      "searchPlaces": 7454,
+      "pmtiles": {
+        "size": 20250741,
+        "sha256": "52545aee16b831a9fe92e02892cb2d7644ba1cbfeefce4f616760216784e2888",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.18/panama_oeste.pmtiles"
+      },
+      "searchIndex": {
+        "size": 2740224,
+        "sha256": "00113834297015b913b0b1f030d40ba4bfb6c241cf8bce6e23bf5aa5723ca4a7",
+        "url": "https://github.com/jose06xd/ecosistema-jose-maps/releases/download/maps-2026.10.18/panama_oeste.search.sqlite"
+      },
+      "updatedAt": "2026-10-18"
     }
   ]
 }
